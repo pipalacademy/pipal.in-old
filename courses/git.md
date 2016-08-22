@@ -44,7 +44,7 @@ Covers common commands that are used in git which were not covered in the sectio
 
 ## Duration and Format
 
-The suggested duration of the course is 2 days.
+The suggested duration of the course is 3 days.
 
 This is an interactive course and it is suggested to limit the number of
 participants to 15 or less for it to be effective.
