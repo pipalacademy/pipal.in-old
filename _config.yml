@@ -24,4 +24,4 @@ github_username:  pipalacademy
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
