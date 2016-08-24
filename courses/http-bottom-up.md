@@ -2,10 +2,11 @@
 layout: page
 title: HTTP Bottom Up
 permalink: /courses/http-bottom-up/
-
 ---
 
 # HTTP Bottom Up
+
+<strong>HTTP Bottom Up</strong> is a two-day hands-on course to explore everything that happens behind the scenes of your favorite web framework.
 
 There are many popular modern web frameworks. While these frameworks make it easy
 to get started with developing web applications, they hide lot of details that
@@ -16,6 +17,8 @@ starting all the way from bare sockets, without using any framework. Even
 though this is not the most production way to build web applications, 
 this exercise will give a chance to observe and understand everything that
 happens behind the scenes of any web application.
+
+After the course, the participants will be in a better position to architect web applications and reason about their performance and scaliabity.</p>
 
 The workshop uses Python 3 for all the examples and exercises.
 
@@ -45,11 +48,9 @@ This course assumes that the participants already have decent experience in buil
 - Deep dive into HTTP
 - Exploring HTTP methods, status codes and using curl and netcat
 
-<br/>
-
 **Building an HTTP client**
 
-Write a program to:
+Write programs to:
 
 * crawl web pages 
 * submit forms
@@ -92,9 +93,3 @@ participants to 15 or less for it to be effective.
 
 The class time is spent on live demonstration of concepts using examples and
 hands-on programming exercises. 
-
-## Required Arrangements
-
-The class room will require a video projector and a white board.
-
-A computer with internet connection is required for each participant. The computers must have Python 3.5 preinstalled.
