@@ -17,7 +17,11 @@ footer p{clear:left;margin-bottom:0}
 	margin-top: 20px;
 }
 
-.workshop-header h1 {
+#workshop-header h1 {
 	margin-bottom: 0px;
 	padding-bottom: 0px;
+}
+
+#workshop-header {
+	margin-bottom: 20px;
 }
