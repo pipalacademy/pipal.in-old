@@ -7,3 +7,8 @@ footer p{clear:left;margin-bottom:0}
 .panel-title {
 	font-size: 26px;
 }
+
+.panel-heading h3 {
+	margin: 0px;
+	padding: 0px;
+}
