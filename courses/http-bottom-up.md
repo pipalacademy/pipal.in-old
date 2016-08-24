@@ -11,7 +11,7 @@ permalink: /courses/http-bottom-up/
 This workshop explores building web applications starting all the way from bare sockets, without using any framework. Even though this is not the most production way to build web applications, this exercise will give a chance to observe and understand everything that
 happens behind the scenes of any web application.
 
-After the course, the participants will be in a better position to architect web applications and reason about their performance and scaliabity.</p>
+After the course, the participants will be in a better position to architect web applications and reason about their performance and scaliabity.
 
 The workshop uses Python 3 for all the examples and exercises.
 
