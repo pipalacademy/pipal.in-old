@@ -88,11 +88,7 @@ Build a web framework from scratch containing the following features:
 
 ## Duration and Format
 
-The suggested duration of the course is 2 days. The duration can be extended
-to 3 days to cover some additional topics, if required.
+The suggested duration of the course is 2 days. 
 
 This is an interactive course and it is suggested to limit the number of
 participants to 15 or less for it to be effective.
-
-The class time is spent on live demonstration of concepts using examples and
-hands-on programming exercises. 
