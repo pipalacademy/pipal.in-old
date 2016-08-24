@@ -12,15 +12,18 @@ There are many popular modern web frameworks. While these frameworks make it eas
 to get started with developing web applications, they hide lot of details that
 are required to understand how the whole thing is working together.
 
-HTTP Bottom Up is a hands-on workshop that explores building web applications
-starting all the way from bare sockets, without using any framework. Even
-though this is not the most production way to build web applications, 
-this exercise will give a chance to observe and understand everything that
+This workshop explores building web applications starting all the way from bare sockets, without using any framework. Even though this is not the most production way to build web applications, this exercise will give a chance to observe and understand everything that
 happens behind the scenes of any web application.
 
 After the course, the participants will be in a better position to architect web applications and reason about their performance and scaliabity.</p>
 
 The workshop uses Python 3 for all the examples and exercises.
+
+<div class="alert alert-info" style="background: #ffc; color: black; border: 1px solid #cca;">
+<p>A public workshop of this course is scheduled on September 16 & 17, 2016 in Bangalore.</p>
+
+<p><a class="btn btn-primary" href="/workshops/2016/http-bottom-up/">See details</a></p>
+</div>
 
 ## Target Audience
 
