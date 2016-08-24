@@ -1,0 +1,118 @@
+---
+layout: page
+title: Generators Inside Out
+permalink: /workshops/2016/generators-inside-out/
+---
+  	
+<div class="container-fluid" id="workshop-header">
+  <div class="container">
+    <ol class="breadcrumb">
+      <li><a href="#">Upcoming Workshops</a></li>
+    </ol>
+    <h1>Generators Inside Out</h1>
+    <div class="dates">September 18, 2016 (Sunday) &bull; Bangalore</div>
+  </div>
+</div>
+
+<div class="container" id="workshop-body">
+  <div class="row">
+
+    <div class="col-md-4 col-sm-12 pull-right" id="workshop-sidebar">
+      <div class="panel panel-default">
+        <div class="panel-heading"><h3>Schedule</h3></div>
+        <div class="panel-body">
+          <i class="fa fa-calendar-o" aria-hidden="true"></i>
+          September 18, 2016 (Sunday)<br/>
+          <i class="fa fa-clock-o" aria-hidden="true"></i>
+          9:00 AM to 4:00 PM
+        </div>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading"><h3>Venue</h3></div>
+        <div class="panel-body">
+          <p>
+          The Energy & Resources Institute<br/>
+          4th Main, 2nd Cross<br/>
+          Domlur, 2nd Stage<br/>
+          Bangalore, Karnataka</p>
+          <a href="" class="btn btn-primary">See in Google Maps</a>
+        </div>
+      </div>     
+
+      <div class="panel panel-default">
+        <div class="panel-heading"><h3>About the Instructor</h3></div>
+        <div class="panel-body">
+          <div class="thumbnail">
+            <img src="https://advancedpython.hasgeek.com/2013-08/img/anand.jpg" alt="Instructor">
+            <div class="caption">
+              <p><a href="http://anandology.com/"><strong>Anand Chitipothu</strong></a> is a software consultant and trainer based in Visakhapatnam. He has over 13 years of programming experience ranging from building rich desktop applications to scaling high- traffic websites, writing high-performance scientific tools to modern proxy servers.</p>
+
+              <p>He is co-author of <a href="http://webpy.org/">web.py</a>, a micro web framework in Python.</p>
+
+              <p>He has worked at Strand Life Sciences and Internet Archive.</p>
+
+              <p>
+                <a class="btn btn-social-icon btn-github" href="https://github.com/anandology">
+                  <span class="fa fa-github"></span>
+                </a>
+                <a class="btn btn-social-icon btn-twitter" href="https://twitter.com/anandology">
+                  <span class="fa fa-twitter"></span>
+                </a>
+                <a class="btn btn-social-icon btn-linkedin" href="https://linkedin.com/in/anandology">
+                  <span class="fa fa-linkedin"></span>
+                </a>
+
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>  
+    </div>
+    <div class="col-md-8 col-sm-12" id="workshop-content">
+
+      <div class="panel panel-default">
+        <div class="panel-heading"><h3>Overview</h3></div>
+        <div class="panel-body">
+          <p><strong>Generators inside out</strong> is a hands-on workshop that provides in-depth introduction to generators in Python.</p>
+
+          <p>Using lot of examples and exercises, this workshop introduces the idea of generators in depth with emphasis on the new style of programming that generators makes possible. We'll also see how to build a cooperative multi-threading library using generators and explore the new async and await constructs of Python 3.</p>
+
+          <a class="btn btn-primary" href="/courses/generators/">More details</a>
+        </div>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading"><h3>Register</h3></div>
+        <div class="panel-body">
+          <div id="boxoffice-widget" style="padding-top: 0px;"><p class="text-center regular">Loading...</p></div>
+        </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<script type="text/javascript">        
+  $(function(){       
+    //Boxoffice widget        
+    var boxofficeUrl = "https://boxoffice.hasgeek.com";       
+    $.get({   
+      url: boxofficeUrl+"/api/1/boxoffice.js",    
+      crossDomain: true   
+    }).done(function(data) {  
+      var boxofficeScript = document.createElement('script');   
+      boxofficeScript.innerHTML = data.script;    
+      document.getElementsByTagName('body')[0].appendChild(boxofficeScript);    
+      window.Boxoffice.init({   
+        org: 'Pipal Academy',   
+  razorpayBanner: 'https://pipal.in/static/images/dummy-logo.png',
+        itemCollection: '4928fee6-6885-11e6-988a-1f0239bee852',   
+        paymentDesc: 'Python Generators'
+      });     
+    
+    }).fail(function(response) {    
+      $('#boxoffice-widget p').html('Unable to connect. Please try again.');    
+    });   
+  });       
+</script>
