@@ -8,10 +8,6 @@ permalink: /courses/http-bottom-up/
 
 <strong>HTTP Bottom Up</strong> is a two-day hands-on course to explore everything that happens behind the scenes of your favorite web framework.
 
-There are many popular modern web frameworks. While these frameworks make it easy
-to get started with developing web applications, they hide lot of details that
-are required to understand how the whole thing is working together.
-
 This workshop explores building web applications starting all the way from bare sockets, without using any framework. Even though this is not the most production way to build web applications, this exercise will give a chance to observe and understand everything that
 happens behind the scenes of any web application.
 
