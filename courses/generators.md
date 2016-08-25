@@ -25,6 +25,17 @@ This course assumes a working knowledge of Python programming. It is NOT recomme
 ## Outline
 
 * Introduction to generators
-* Running generators concurrently
+
+Introductions to the concept of generators. Understanding lazy evaluation and creating data flow pipelines using generators. Using generators to process larges datasets effectively.
+
 * Generators as coroutines
+
+Using generators as coroutines to achive cooperative multitasking.
+
 * Coroutines with async and await
+
+Using new `awat` and `async` constructs introduced in Python 3.5 for build coroutines.
+
+* Building a async library
+
+Understanding how libraries like asyncio works by building a simple async library from scratch.
