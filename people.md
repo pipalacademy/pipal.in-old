@@ -22,11 +22,15 @@ He has worked at Strand Life Sciences and Internet Archive.
 
 ### Noufal Ibrahim
 
-Noufal is a Python programmer specialising in infrastructure and development tools with more than 10 years of experience.
+Noufal Ibrahim is the founder of Hamon Technologies, a services firm
+based in Kozhikode that specialises in infrastructure, automation and
+analytics solutions. He has more than ten years of experience in
+architecting, building and automating software systems. He also runs
+Lycaeum, a platform to mentor young engineers.
 
-He conducts corporate and public trainings on Python and the git version control system.
+He is the founder of PyCon India and the chair of the first two editions of the conference.
 
-He is the founder of PyCon India and the chair of the first two editions of the conference in 2009 and 2010.
+He has worked at Cisco, Synopsis and Internet Archive.
 
 [Blog][n1] &bull; [Twitter][n2] &bull; [Linked In][n3]
 
